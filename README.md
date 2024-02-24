@@ -15,6 +15,8 @@ Method:
 3. Runs the distance calculator function and stores it in a list.
 4. Run the distance calculator function n number of times to calculate the [precision](#what-is-precision) (refers to the closeness of two or more measurements to each other when repeated measurements are made under the same conditions), using standard deviation and store it in a list.
 5. Calculate the [accuracy](#what-is-accuracy)
+> You can try this [accuracy calculator](https://calculator.academy/percentage-accuracy-calculator/)
+
 6. Display the metrics using pandas table.
     - Image name | Ground Truth Distance (mm) | Script Distance (mm) | Precision | Accuracy
 
