@@ -27,5 +27,5 @@ Method:
 # What is accuracy
 - Accuracy refers to the closeness of a measured value to a known or true value.
 - In classification or detection tasks, accuracy measures the proportion of correctly classified instances (both positive and negative) out of the total number of instances.
-- Accuracy can be calculated using the formula: **Accuracy = (True Positives + True Negatives) / Total Number of Instances**
+- Accuracy can be calculated using the formula: **Accuracy = (1 − true value/error) * 100**
 - Accuracy considers both correct positive and negative predictions made by the model and provides an overall measure of performance.
