@@ -1,7 +1,7 @@
 # MolarSupport-DM
 Precision and Accuracy of the distance measurement for Molar Support, our thesis study
 
-![Sample Precision and Accuracy using 8 images](https://github.com/BlackMoFan/MolarSupport-DM/blob/main/precisionandaccuracy.png "Sample Precision and Accuracy Result")
+![Sample Precision and Accuracy using 8 images](https://github.com/BlackMoFan/MolarSupport-DM/blob/main/sampleprecisionandaccuracy.png "Sample Precision and Accuracy Result")
 
 About the distance measurement model:
 - uses the Euclidean distance formula: distance = sqrt((x2 - x1)^2 + (y2 - y1)^2).
@@ -27,5 +27,5 @@ Method:
 # What is accuracy
 - Accuracy refers to the closeness of a measured value to a known or true value.
 - In classification or detection tasks, accuracy measures the proportion of correctly classified instances (both positive and negative) out of the total number of instances.
-- Accuracy can be calculated using the formula: **Accuracy = (1 − true value/error) * 100**
+- Accuracy can be calculated using the formula: **Accuracy = (1 − error / true value) * 100**
 - Accuracy considers both correct positive and negative predictions made by the model and provides an overall measure of performance.
